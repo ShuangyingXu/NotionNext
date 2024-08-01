@@ -5,14 +5,14 @@ const CONFIG = {
 
   MEDIUM_POST_LIST_COVER: true, // 文章列表显示图片封面
   MEDIUM_POST_LIST_PREVIEW: true, // 列表显示文章预览
-  MEDIUM_POST_LIST_CATEGORY: true, // 列表显示文章分类
+  MEDIUM_POST_LIST_CATEGORY: false, // 列表显示文章分类
   MEDIUM_POST_LIST_TAG: true, // 列表显示文章标签
 
-  MEDIUM_POST_DETAIL_CATEGORY: true, // 文章显示分类
+  MEDIUM_POST_DETAIL_CATEGORY: false, // 文章显示分类
   MEDIUM_POST_DETAIL_TAG: true, // 文章显示标签
 
   // 菜单
-  MEDIUM_MENU_CATEGORY: true, // 显示分类
+  MEDIUM_MENU_CATEGORY: false, // 显示分类
   MEDIUM_MENU_TAG: true, // 显示标签
   MEDIUM_MENU_ARCHIVE: true, // 显示归档
   MEDIUM_MENU_SEARCH: true, // 显示搜索
